@@ -18,3 +18,6 @@ This application is a web-based tool that allows users to upload images of skin 
 
    ```bash
    pip install streamlit tensorflow pillow numpy matplotlib google-generativeai
+
+2. Replace "C:\\Users\\vivek\\Desktop\\archive\\<fileName.py>" with your defined path
+3. Download the dataset to train the model from url : "https://www.kaggle.com/datasets/shubhamgoel27/dermnet"
